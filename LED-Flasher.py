@@ -1,7 +1,7 @@
 # LED Flasher                 
 # Version: 1.0                            
 # Date: 07-DEC-2020                   
-# Developed by: Billy Gaskin
+# Programmer: Billy Gaskin
 #
 # Notes: Raspberry Pi 4 with breadboard configured with 4 LEDs: Red, Yellow, Green and Blue.
 #
